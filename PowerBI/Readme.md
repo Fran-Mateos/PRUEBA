@@ -1,4 +1,2 @@
 ##Readme de Powerbi
-
-
-Locura
+hola qué tal 
